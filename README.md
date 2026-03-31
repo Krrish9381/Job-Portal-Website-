@@ -1,6 +1,6 @@
 # 💼 Job Portal Website (Frontend Only)
 
-This is a **frontend-only Job Portal Website** built using HTML and CSS. The project focuses on creating a responsive and user-friendly interface for job seekers and recruiters.
+This is a **frontend-only Job Portal Website** built using HTML, CSS, and basic JavaScript. The project focuses on creating a responsive and interactive user interface for job seekers and recruiters.
 
 ## 🚀 Features
 
@@ -9,12 +9,14 @@ This is a **frontend-only Job Portal Website** built using HTML and CSS. The pro
 - 📝 User authentication UI (Login & Register)
 - 📊 Dashboard interface
 - ➕ Post job page (UI only)
+- ⚡ Basic interactivity using JavaScript (form handling, button actions, etc.)
 - 📱 Responsive design for different screen sizes
 
 ## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
+- JavaScript (Basic – for event handling and interactivity)
 
 ## ⚠️ Note
 
@@ -28,7 +30,7 @@ All data shown is static and for demonstration purposes only.
 
 ## 🎯 Purpose
 
-The goal of this project is to practice frontend development skills, including layout design, responsiveness, and UI structuring.
+The goal of this project is to practice frontend development skills, including layout design, responsiveness, and adding basic interactivity using JavaScript.
 
 ## 📌 Future Improvements
 
